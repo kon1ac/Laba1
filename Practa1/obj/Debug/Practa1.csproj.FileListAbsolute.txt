@@ -1,0 +1,15 @@
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\Practa1\Practa1\bin\Debug\Practa1.exe.config
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\Practa1\Practa1\bin\Debug\Practa1.exe
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\Practa1\Practa1\bin\Debug\Practa1.pdb
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\Practa1\Practa1\obj\Debug\Practa1.csproj.AssemblyReference.cache
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\Practa1\Practa1\obj\Debug\MainWindow.g.cs
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\Practa1\Practa1\obj\Debug\App.g.cs
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\Practa1\Practa1\obj\Debug\Practa1_MarkupCompile.cache
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\Practa1\Practa1\obj\Debug\Practa1_MarkupCompile.lref
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\Practa1\Practa1\obj\Debug\MainWindow.baml
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\Practa1\Practa1\obj\Debug\Practa1.g.resources
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\Practa1\Practa1\obj\Debug\Practa1.Properties.Resources.resources
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\Practa1\Practa1\obj\Debug\Practa1.csproj.GenerateResource.cache
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\Practa1\Practa1\obj\Debug\Practa1.csproj.CoreCompileInputs.cache
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\Practa1\Practa1\obj\Debug\Practa1.exe
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\Practa1\Practa1\obj\Debug\Practa1.pdb
